@@ -2,10 +2,6 @@
   <img src="./support-banner.png" />
 </p>
 
-<p align="center">
-  <img src="./support-banner.svg" />
-</p>
-
 ### Hi there 👋
 
 **slavarazum/slavarazum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
