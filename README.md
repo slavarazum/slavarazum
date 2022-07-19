@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./support-banner.png" width="800" />
+</p>
+
+<p align="center">
   <img src="./support-banner.svg" width="800" />
 </p>
 
