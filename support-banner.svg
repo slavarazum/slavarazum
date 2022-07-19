@@ -33,6 +33,6 @@
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_2178_7530" transform="scale(0.002)"/>
 </pattern>
-<image id="image0_2178_7530" width="500" height="500" xlink:href="https://github.com/slavarazum/slavarazum/raw/HEAD/photo.png"/>
+<image id="image0_2178_7530" width="500" height="500" xlink:href="https://raw.githubusercontent.com/slavarazum/slavarazum/1bcad07df0c8b8cdcbcbe263ff2bb61d9b5d124f/photo.png"/>
 </defs>
 </svg>
