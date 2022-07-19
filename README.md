@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./support-banner.png" width="800" />
+  <img src="./support-banner.png" />
 </p>
 
 <p align="center">
-  <img src="./support-banner.svg" width="800" />
+  <img src="./support-banner.svg" />
 </p>
 
 ### Hi there 👋
