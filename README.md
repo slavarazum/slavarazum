@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="./support-banner.png" />
+  <a href="https://ko-fi.com/slavarazum"><img src="./support-banner.png" /></a>
 </p>
 
 ### Hi there 👋
 
+_Writing recent life story..._
+
+<!---
 **slavarazum/slavarazum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,3 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
