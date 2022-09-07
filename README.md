@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ko-fi.com/slavarazum"><img src="./support-banner.png" /></a>
+  <a href="https://github.com/sponsors/qruto"><img src="./support-banner.png" /></a>
 </p>
 
 ### Hi there 👋
