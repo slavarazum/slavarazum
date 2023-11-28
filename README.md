@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://github.com/sponsors/qruto"><img src="./support-banner.png" /></a>
-</p>
-
 ### Hi there 👋
 
 My name is Slava Razum. I'm developer from Ukraine, Kharkiv. All my life I wanted to create projects that could make our lives more interesting and happier 😊
