@@ -13,7 +13,7 @@ We aim to push that power as far as it goes — toward a life with more joy, mor
 
 ### 🎸 The band
 
-[**Qruto**](https://github.com/qruto) — me and [Anastasiia](https://twitter.com/yermolaevan).
+[**qruto**](https://github.com/qruto) — me and [Anastasiia](https://twitter.com/yermolaevan).
 State-of-the-art web stuff • depth design.
 
 ### 🧱 The stack
