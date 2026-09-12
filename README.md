@@ -1,29 +1,49 @@
-### Hi there 👋
+## Software for life
 
-My name is Slava Razum. I'm developer from Ukraine, Kharkiv. All my life I wanted to create projects that could make our lives properly excited and calm.
+The WWW is a gateway to freedom and independence — the first of its kind, at the scale of everyone at once.
+Nothing in history had done that before.
+AI is the second, and it goes further: the bar drops significantly, and anyone with a question is invited to build the answer.
 
-Today, the internet and app creation seems to be the best way to bring improvements to as many people as possible.
+Coding was never a natural human thing, I feel. Months wrestling with an optimization algorithm, errors that shouldn't exist, conflicting pieces in a deep legacy codebase — it might be fun, but it doesn't make your life better.
+AI takes the wrestling now. What's left is the only question worth a human's time: how do we make someone's life simpler?
 
-🌐 → 🖥️ 💻📱
+We aim to push that power as far as it goes — toward a life with more joy, more humanity, and less stress.
 
-I'm a huge fan of concise and neat software solutions.
-My deep conviction is – that user-friendly solutions should be created with developer-friendly tools.
-Thus, the main development stack became: [Laravel](https://laravel.com), [VueJS](https://vuejs.com), [TailwindCSS](https://tailwindcss.com).
+🌐 → 🖥️ 💻 📱
 
-I am currently in the city of Dnipro with my life partner [Anastasiia Yermolaeva](https://twitter.com/yermolaevan). We fled from our hometown Kharkiv and decided to create **Qruto** team. Now we need help to be able to continue working on the projects that we publish. We have created a sponsorship page with more information and we would appreciate it if you would take a moment to visit it.
+### 🎸 The band
 
-[Qruto Sponsorship Page](https://github.com/sponsors/qruto)
+[**Qruto**](https://github.com/qruto) — me and [Anastasiia](https://twitter.com/yermolaevan).
+State-of-the-art web stuff • depth design.
 
-<!---
+### 🧱 The stack
 
-Here are some ideas to get you started:
+- [Nuxt](https://nuxt.com) — the app, same code on both sides
+- [Convex](https://convex.dev) — backend that updates itself
+- [Better Auth](https://better-auth.com) — who's who
+- [Polar](https://polar.sh) — checkout, subscriptions, payouts
+- [Resend](https://resend.com) — mail written as components
+- [Sentry](https://sentry.io) — what broke, before anyone tells us
+- [Vercel](https://vercel.com) — every branch gets a URL, `main` is prod
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+One commit. The whole thing ships itself.
+
+### 🛠️ The desk
+
+- [**Raycast**](https://raycast.com) — the missing part of any OS. Every app, file, clipboard entry and script one keystroke away; the single biggest productivity gain on this desk
+- [Claude Code](https://claude.com/claude-code) — writes the code
+- [Grok](https://grok.com) — the second opinion
+- [VS Code](https://code.visualstudio.com) — editor
+- [Ghostty](https://ghostty.org) — terminal
+- [CleanShot X](https://cleanshot.com) — screenshots that land ready to send
+- [Obsidian](https://obsidian.md) — notes, plain markdown we own
+- [Linear](https://linear.app) — issues, faster than remembering
+- [Figma](https://figma.com) · [Paper](https://paper.design) — sometimes; design is moving fully onto the web platform, so the tool and the product become the same thing
+- [Higgsfield](https://higgsfield.ai) — generated video
+- [Stream Deck](https://www.elgato.com/stream-deck) — a physical key for the actions that never earned a shortcut
+
+Why each one stays → [qruto.to/uses](https://qruto.to/uses)
+
+### 🖤❤️🤍
+
+Everything we publish is free. [Sponsor Qruto](https://github.com/sponsors/qruto) — keep the band playing.
